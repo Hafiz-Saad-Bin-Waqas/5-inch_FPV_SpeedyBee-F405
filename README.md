@@ -14,6 +14,7 @@ A clean and simple 5-inch FPV build focused on reliability, smooth flight, and p
 - **Accessories:** XT60, heatshrink, straps, zip ties  
 
 **Estimated Total:** $275 - $420
+(The big range is because this project highly depends on where i buy these things from and the shipping costs, taxes, etc)
 
 ## Build Summary
 - Fully soldered and assembled from scratch  
