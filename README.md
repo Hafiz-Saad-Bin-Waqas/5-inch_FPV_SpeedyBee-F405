@@ -25,8 +25,5 @@ A clean and simple 5-inch FPV build focused on reliability, smooth flight, and p
 - ~3:30–5:00 flight time on 4S 1500mAh  
 - Stable hover, minimal vibration  
 
-## Media
-(Photos and build videos go here)
-
 ## Notes
 This repo is mostly for documenting progress and storing media, diagrams, and Betaflight settings.
