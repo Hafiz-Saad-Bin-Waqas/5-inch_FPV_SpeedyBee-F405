@@ -8,11 +8,12 @@ A clean and simple 5-inch FPV build focused on reliability, smooth flight, and p
 - **FC + ESC:** SpeedyBee F405 Stack (BLHeli_32)  
 - **Camera:** Caddx Ant  
 - **Receiver:** FlySky FS-iA10B  
-- **Battery:** 4S 1500mAh 100C  
-- **Props:** Gemfan 51466 / HQ 5x4.3x3  
+- **Battery:** 4S 1500mAh 100C CNHL  3x
+- **Props:** Gemfan 51466 / HQ 5x4.3x3
+- **VTX:** SpeedyBee TX800 + Foxeer Lollipop 5.8GHz RHCP Antenna
 - **Accessories:** XT60, heatshrink, straps, zip ties  
 
-**Estimated Total:** $230–250
+**Estimated Total:** $275 - $420
 
 ## Build Summary
 - Fully soldered and assembled from scratch  
