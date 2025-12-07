@@ -1,4 +1,4 @@
-# 5-inch FPV Drone Build (Betaflight F405)
+# 5-inch FPV Drone Build (SpeedyBee F405)
 
 A clean and simple 5-inch FPV build focused on reliability, smooth flight, and proper documentation.
 
